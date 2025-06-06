@@ -1,4 +1,4 @@
-![URO](https://github.com/fuckyoustan/SkiaGl-Opt/blob/078423cd6d3ed36b39b13d1ca45cecaa796d3951/Banner.png?raw=true)
+![URO](https://github.com/fuckyoustan/Ultimate-Rendering-Optimization/blob/main/Banner.png?raw=true)
 
 # Ultimate Rendering Optimization
 
