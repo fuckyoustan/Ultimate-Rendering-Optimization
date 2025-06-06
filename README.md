@@ -1,1 +1,28 @@
-# Ultimate-Rendering-Optimization
+![URO](https://github.com/fuckyoustan/SkiaGl-Opt/blob/078423cd6d3ed36b39b13d1ca45cecaa796d3951/Banner.png?raw=true)
+
+# Ultimate Rendering Optimization
+
+**Ultimate Rendering Optimization** is a Magisk module that slaps your Android rendering system into behaving. It’s built to kick performance bottlenecks right in the face and make your UI glide like butter on a hot pan — no mercy, no bullshit.
+
+## 🚀 Features That Hit Different
+
+* 🔩 **Forces SkiaGL Threaded & SkiaVK Threaded Rendering**
+
+* ⬇️ **Drops OpenGL ES version to 1.0**
+
+* 🌀 **Smoother and more stable UI rendering**
+
+* 📦 **Custom render cache sizes**
+
+* 🧹 **Disables useless system composition BS**
+
+## ⚠️ Warning
+
+- This module ain’t for everyone.
+- If you’re rocking some fragile proprietary GPU drivers or a phone with OEM voodoo magic — test first, ask questions later.
+- You bootloop? That’s on you, not the spider.
+
+## 🏁 Final Words
+
+**Ultimate Rendering Optimization** isn't just a tweak — it's a statement. A declaration of war on janky rendering and laggy UIs.
+If you're into modding, pushing limits, or just want your animations to stop looking like a PowerPoint slideshow, this one's for you.
