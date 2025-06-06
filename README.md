@@ -18,9 +18,9 @@
 
 ## ⚠️ Warning
 
-- This module ain’t for everyone.
-- If you’re rocking some fragile proprietary GPU drivers or a phone with OEM voodoo magic — test first, ask questions later.
-- You bootloop? That’s on you, not the spider.
+- This module ain’t for everyone
+- Backup yo’ stuff. Always
+- You bootloop? That’s on you, not the spider
 
 ## 🏁 Final Words
 
