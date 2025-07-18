@@ -1,0 +1,6 @@
+id=URO_SkiaGL
+name=Ultimate Rendering Optimization
+version=v2.0 (SkiaGL)
+versionCode=1
+author=@fuckyoustan
+description=Enable SkiaGL Threaded as default rendering and also downgrade OpenGL ES version to 1.1 for improve smoothness

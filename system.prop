@@ -1,0 +1,29 @@
+# Threaded Rendering
+ro.hwui.use_skia=1
+ro.opengles.version=65535
+debug.hwui.render_thread=true
+debug.hwui.threaded_pipeline=true
+debug.skia.threaded_mode=true
+debug.skia.render_thread_priority=true
+debug.hwui.render_thread_priority=1
+persist.sys.gpu.working_thread_priority=true
+persist.sys.perf.topAppRenderThreadBoost.enable=true
+renderthread.skia.reduceopstasksplitting=true
+
+# Other
+persist.sys.ui.hw=1
+video.accelerate.hw=1
+vendor.perf.framepacing.enable=1
+debug.renderengine.skia_atrace_enabled=false
+debug.hwui.skia_atrace_enabled=0
+debug.hwui.render_dirty_regions=false
+debug.hwui.use_buffer_age=false
+debug.gr.numframebuffers=3
+debug.sf.force_hw_ui=true
+debug.sf.tripleBuffer=1
+debug.sf.disable_client_composition_cache=0
+ro.config.hw_high_perf=true
+ro.surface_flinger.boost_priority=1
+ro.surface_flinger.set_latency_compensation=true
+ro.surface_flinger.enable_frame_rate_override=false
+ro.surface_flinger.max_frame_buffer_acquired_buffers=3
